@@ -108,6 +108,7 @@ Most interesting points about user behavior that can be observed on-chain are al
 * Does the user own any NFTs that can be used to establish trust? (e.g. POAPs, Badges, etc.)
 * Is the account in use and has a long history of credible activity?
 * What is the behavior of the EOA that owns the Circles Safe?
+* Did users attend the same events (POAP)?
 
 ### Limitations
 
