@@ -137,3 +137,5 @@ https://github.com/ice09/circles-trust-graph-data-science
 #### NetFi: First results of Circles network analysis
 A team at Freiburg University has conducted a network analysis of the Circles network from an economical stand point. Their results can be found here:
 https://www.fribis.uni-freiburg.de/en/2021/online-event-netfi-first-results-of-circles-network-analysis/
+
+The second publication is available here: https://docs.google.com/document/d/1husreoJz3HQq9_C0LXRMiGRoC_hL5Uvxds9UwzTeeoI/edit#heading=h.7oaemxsg7423
